@@ -1,0 +1,15 @@
+{
+  "name": "com.manakhovn.unity_texture_resizer",
+  "version": "0.0.1",
+  "displayName": "UnityTextureResizer",
+  "description": "Resize selected textures to multiply of 4",
+  "keywords": [
+    "resize",
+    "texture"
+  ],
+  "author": {
+    "name": "ManakhovN"
+  },
+  "dependencies": {
+  }
+}
